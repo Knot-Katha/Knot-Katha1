@@ -32,6 +32,18 @@ import babyPlayfulPoster from './assets/invitations/baby-playful.jpg'
 import birthdayUnicornPoster from './assets/invitations/birthday-unicorn.jpg'
 import engagementPinkPoster from './assets/invitations/engagement-pink.jpg'
 import engagementFloralPoster from './assets/invitations/engagement-floral.jpg'
+import traditionalWedding1Video from './assets/invitations/traditional-wedding-1.mp4'
+import safariBirthday1Video from './assets/invitations/safari-birthday-1.mp4'
+import safariBirthday2Video from './assets/invitations/safari-birthday-2.mp4'
+import traditionalEngagement1Video from './assets/invitations/traditional-engagement-1.mp4'
+import punjabiWedding1Video from './assets/invitations/punjabi-wedding-1.mp4'
+import watercolorBabyShower1Video from './assets/invitations/watercolor-baby-shower-1.mp4'
+import traditionalWedding1Poster from './assets/invitations/traditional-wedding-1.jpg'
+import safariBirthday1Poster from './assets/invitations/safari-birthday-1.jpg'
+import safariBirthday2Poster from './assets/invitations/safari-birthday-2.jpg'
+import traditionalEngagement1Poster from './assets/invitations/traditional-engagement-1.jpg'
+import punjabiWedding1Poster from './assets/invitations/punjabi-wedding-1.jpg'
+import watercolorBabyShower1Poster from './assets/invitations/watercolor-baby-shower-1.jpg'
 
 const invitations = [
   { id:'01', title:'Floral Romance', occasion:'Wedding', package:'Classic', meta:'Classic · Wedding', video:floralVideo, poster:floralPoster, tag:'Warm & nostalgic' },
@@ -43,6 +55,12 @@ const invitations = [
   { id:'07', title:'Unicorn Wishes', occasion:'Birthday', package:'Classic', meta:'Classic · Birthday', video:birthdayUnicornVideo, poster:birthdayUnicornPoster, tag:'Fun & colourful' },
   { id:'08', title:'Garden Engagement', occasion:'Engagement', package:'Royal', meta:'Royal · Engagement', video:engagementPinkVideo, poster:engagementPinkPoster, tag:'Elegant & ornate' },
   { id:'09', title:'Floral Promise', occasion:'Engagement', package:'Premium', meta:'Premium · Engagement', video:engagementFloralVideo, poster:engagementFloralPoster, tag:'Romantic & floral' },
+  { id:'10', title:'Aisha & Daniel', occasion:'Wedding', package:'Royal', meta:'Royal · Wedding', video:traditionalWedding1Video, poster:traditionalWedding1Poster, tag:'Traditional & elegant' },
+  { id:'11', title:'Aaron Safari', occasion:'Birthday', package:'Classic', meta:'Classic · Birthday', video:safariBirthday1Video, poster:safariBirthday1Poster, tag:'Playful & adventurous' },
+  { id:'12', title:'Little Safari', occasion:'Birthday', package:'Classic', meta:'Classic · Birthday', video:safariBirthday2Video, poster:safariBirthday2Poster, tag:'Cute & woodland' },
+  { id:'13', title:'Neha & Rahil', occasion:'Engagement', package:'Premium', meta:'Premium · Engagement', video:traditionalEngagement1Video, poster:traditionalEngagement1Poster, tag:'Floral & traditional' },
+  { id:'14', title:'Punjabi Celebration', occasion:'Wedding', package:'Royal', meta:'Royal · Wedding', video:punjabiWedding1Video, poster:punjabiWedding1Poster, tag:'Vibrant & festive' },
+  { id:'15', title:'Pink Baby Shower', occasion:'Baby Shower', package:'Classic', meta:'Classic · Baby Shower', video:watercolorBabyShower1Video, poster:watercolorBabyShower1Poster, tag:'Soft & joyful' },
 ]
 
 const features = [
