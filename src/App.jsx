@@ -32,6 +32,28 @@ import babyPlayfulPoster from './assets/invitations/baby-playful.jpg'
 import birthdayUnicornPoster from './assets/invitations/birthday-unicorn.jpg'
 import engagementPinkPoster from './assets/invitations/engagement-pink.jpg'
 import engagementFloralPoster from './assets/invitations/engagement-floral.jpg'
+import BlackBeigeWedding1Video from './assets/invitations/black-beige-wedding-1.mp4'
+import BlueRedWedding1Video from './assets/invitations/blue-red-wedding-1.mp4'
+import BabyPlayful2Video from './assets/invitations/baby-playful-2.mp4'
+import RetroFloralWedding2Video from './assets/invitations/retro-floral-wedding-2.mp4'
+import DarkBlueYellowWedding1Video from './assets/invitations/dark-blue-yellow-wedding-1.mp4'
+import GreenPinkDecorativeWedding1Video from './assets/invitations/green-pink-decorative-wedding-1.mp4'
+import GreenPinkIllustratedWedding1Video from './assets/invitations/green-pink-illustrated-wedding-1.mp4'
+import GreenPinkTraditionalWedding2Video from './assets/invitations/green-pink-traditional-wedding-2.mp4'
+import GreenPinkModernWedding1Video from './assets/invitations/green-pink-modern-wedding-1.mp4'
+import PinkGoldBlueEngagement2Video from './assets/invitations/pink-gold-blue-engagement-2.mp4'
+import PinkNeutralIllustratedEngagement2Video from './assets/invitations/pink-neutral-illustrated-engagement-2.mp4'
+import BlackBeigeWedding1Poster from './assets/invitations/black-beige-wedding-1.jpg'
+import BlueRedWedding1Poster from './assets/invitations/blue-red-wedding-1.jpg'
+import BabyPlayful2Poster from './assets/invitations/baby-playful-2.jpg'
+import RetroFloralWedding2Poster from './assets/invitations/retro-floral-wedding-2.jpg'
+import DarkBlueYellowWedding1Poster from './assets/invitations/dark-blue-yellow-wedding-1.jpg'
+import GreenPinkDecorativeWedding1Poster from './assets/invitations/green-pink-decorative-wedding-1.jpg'
+import GreenPinkIllustratedWedding1Poster from './assets/invitations/green-pink-illustrated-wedding-1.jpg'
+import GreenPinkTraditionalWedding2Poster from './assets/invitations/green-pink-traditional-wedding-2.jpg'
+import GreenPinkModernWedding1Poster from './assets/invitations/green-pink-modern-wedding-1.jpg'
+import PinkGoldBlueEngagement2Poster from './assets/invitations/pink-gold-blue-engagement-2.jpg'
+import PinkNeutralIllustratedEngagement2Poster from './assets/invitations/pink-neutral-illustrated-engagement-2.jpg'
 import traditionalWedding1Video from './assets/invitations/traditional-wedding-1.mp4'
 import safariBirthday1Video from './assets/invitations/safari-birthday-1.mp4'
 import safariBirthday2Video from './assets/invitations/safari-birthday-2.mp4'
@@ -61,6 +83,17 @@ const invitations = [
   { id:'13', title:'Neha & Rahil', occasion:'Engagement', package:'Premium', meta:'Premium · Engagement', video:traditionalEngagement1Video, poster:traditionalEngagement1Poster, tag:'Floral & traditional' },
   { id:'14', title:'Punjabi Celebration', occasion:'Wedding', package:'Royal', meta:'Royal · Wedding', video:punjabiWedding1Video, poster:punjabiWedding1Poster, tag:'Vibrant & festive' },
   { id:'15', title:'Pink Baby Shower', occasion:'Baby Shower', package:'Classic', meta:'Classic · Baby Shower', video:watercolorBabyShower1Video, poster:watercolorBabyShower1Poster, tag:'Soft & joyful' },
+  { id:'27', title:'Black & Beige', occasion:'Wedding', package:'Classic', meta:'Classic · Wedding', video:BlackBeigeWedding1Video, poster:BlackBeigeWedding1Poster, tag:'Elegant & editorial' },
+  { id:'28', title:'Palace Peacock', occasion:'Wedding', package:'Royal', meta:'Royal · Wedding', video:BlueRedWedding1Video, poster:BlueRedWedding1Poster, tag:'Grand & regal' },
+  { id:'29', title:'Little Bear', occasion:'Baby Shower', package:'Classic', meta:'Classic · Baby Shower', video:BabyPlayful2Video, poster:BabyPlayful2Poster, tag:'Cute & cheerful' },
+  { id:'30', title:'Retro Bloom', occasion:'Wedding', package:'Classic', meta:'Classic · Wedding', video:RetroFloralWedding2Video, poster:RetroFloralWedding2Poster, tag:'Warm & nostalgic' },
+  { id:'31', title:'Midnight Gold', occasion:'Wedding', package:'Royal', meta:'Royal · Wedding', video:DarkBlueYellowWedding1Video, poster:DarkBlueYellowWedding1Poster, tag:'Traditional & dramatic' },
+  { id:'32', title:'Garden Royale', occasion:'Wedding', package:'Royal', meta:'Royal · Wedding', video:GreenPinkDecorativeWedding1Video, poster:GreenPinkDecorativeWedding1Poster, tag:'Decorative & elegant' },
+  { id:'33', title:'Garden Story', occasion:'Wedding', package:'Premium', meta:'Premium · Wedding', video:GreenPinkIllustratedWedding1Video, poster:GreenPinkIllustratedWedding1Poster, tag:'Illustrated & romantic' },
+  { id:'34', title:'Pastel Traditions', occasion:'Wedding', package:'Royal', meta:'Royal · Wedding', video:GreenPinkTraditionalWedding2Video, poster:GreenPinkTraditionalWedding2Poster, tag:'Soft & traditional' },
+  { id:'35', title:'Garden Modern', occasion:'Wedding', package:'Premium', meta:'Premium · Wedding', video:GreenPinkModernWedding1Video, poster:GreenPinkModernWedding1Poster, tag:'Modern & airy' },
+  { id:'36', title:'Midnight Roses', occasion:'Engagement', package:'Premium', meta:'Premium · Engagement', video:PinkGoldBlueEngagement2Video, poster:PinkGoldBlueEngagement2Poster, tag:'Romantic & grand' },
+  { id:'37', title:'Floral Promise II', occasion:'Engagement', package:'Premium', meta:'Premium · Engagement', video:PinkNeutralIllustratedEngagement2Video, poster:PinkNeutralIllustratedEngagement2Poster, tag:'Soft & illustrated' },
 ]
 
 const features = [
