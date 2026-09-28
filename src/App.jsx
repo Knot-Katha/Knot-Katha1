@@ -67,6 +67,33 @@ import traditionalEngagement1Poster from './assets/invitations/traditional-engag
 import punjabiWedding1Poster from './assets/invitations/punjabi-wedding-1.jpg'
 import watercolorBabyShower1Poster from './assets/invitations/watercolor-baby-shower-1.jpg'
 
+import maroonGoldDecorativeVideo from './assets/invitations/maroon-gold-decorative.mp4'
+import redGoldWhiteVideo from './assets/invitations/red-gold-white.mp4'
+import pastelPalaceWeddingVideo from './assets/invitations/pastel-palace-wedding.mp4'
+import floralPalaceWeddingVideo from './assets/invitations/floral-palace-wedding.mp4'
+import redGoldElegantVideo from './assets/invitations/red-gold-elegant.mp4'
+import pinkGoldTraditionalVideo from './assets/invitations/pink-gold-traditional.mp4'
+import yellowGreenHaldiVideo from './assets/invitations/yellow-green-haldi.mp4'
+import pinkFloralWeddingVideo from './assets/invitations/pink-floral-wedding.mp4'
+import royalLakeWeddingVideo from './assets/invitations/royal-lake-wedding.mp4'
+import redGoldDecorativeVideo from './assets/invitations/red-gold-decorative.mp4'
+import greenBeigeCeremonyVideo from './assets/invitations/green-beige-ceremony.mp4'
+import blackGoldTraditionalVideo from './assets/invitations/black-gold-traditional.mp4'
+import redGoldTraditionalReelVideo from './assets/invitations/red-gold-traditional-reel.mp4'
+import redGoldTraditionalReelPoster from './assets/invitations/red-gold-traditional-reel.jpg'
+import maroonGoldDecorativePoster from './assets/invitations/maroon-gold-decorative.jpg'
+import redGoldWhitePoster from './assets/invitations/red-gold-white.jpg'
+import pastelPalaceWeddingPoster from './assets/invitations/pastel-palace-wedding.jpg'
+import floralPalaceWeddingPoster from './assets/invitations/floral-palace-wedding.jpg'
+import redGoldElegantPoster from './assets/invitations/red-gold-elegant.jpg'
+import pinkGoldTraditionalPoster from './assets/invitations/pink-gold-traditional.jpg'
+import yellowGreenHaldiPoster from './assets/invitations/yellow-green-haldi.jpg'
+import pinkFloralWeddingPoster from './assets/invitations/pink-floral-wedding.jpg'
+import royalLakeWeddingPoster from './assets/invitations/royal-lake-wedding.jpg'
+import redGoldDecorativePoster from './assets/invitations/red-gold-decorative.jpg'
+import greenBeigeCeremonyPoster from './assets/invitations/green-beige-ceremony.jpg'
+import blackGoldTraditionalPoster from './assets/invitations/black-gold-traditional.jpg'
+
 const invitations = [
   { id:'01', title:'Floral Romance', occasion:'Wedding', package:'Classic', meta:'Classic · Wedding', video:floralVideo, poster:floralPoster, tag:'Warm & nostalgic' },
   { id:'02', title:'Royal Traditions', occasion:'Wedding', package:'Royal', meta:'Royal · Wedding', video:royalVideo, poster:royalPoster, tag:'Regal & ornate' },
@@ -94,6 +121,20 @@ const invitations = [
   { id:'35', title:'Garden Modern', occasion:'Wedding', package:'Premium', meta:'Premium · Wedding', video:GreenPinkModernWedding1Video, poster:GreenPinkModernWedding1Poster, tag:'Modern & airy' },
   { id:'36', title:'Midnight Roses', occasion:'Engagement', package:'Premium', meta:'Premium · Engagement', video:PinkGoldBlueEngagement2Video, poster:PinkGoldBlueEngagement2Poster, tag:'Romantic & grand' },
   { id:'37', title:'Floral Promise II', occasion:'Engagement', package:'Premium', meta:'Premium · Engagement', video:PinkNeutralIllustratedEngagement2Video, poster:PinkNeutralIllustratedEngagement2Poster, tag:'Soft & illustrated' },
+
+  { id:'38', title:'Maroon Gold Grandeur', occasion:'Wedding', package:'Royal', meta:'Royal · Wedding', video:maroonGoldDecorativeVideo, poster:maroonGoldDecorativePoster, tag:'Rich & ceremonial' },
+  { id:'39', title:'Red Gold Celebration', occasion:'Wedding', package:'Premium', meta:'Premium · Wedding', video:redGoldWhiteVideo, poster:redGoldWhitePoster, tag:'Festive & elegant' },
+  { id:'40', title:'Pastel Palace', occasion:'Wedding', package:'Premium', meta:'Premium · Wedding', video:pastelPalaceWeddingVideo, poster:pastelPalaceWeddingPoster, tag:'Soft & regal' },
+  { id:'41', title:'Floral Palace', occasion:'Wedding', package:'Royal', meta:'Royal · Wedding', video:floralPalaceWeddingVideo, poster:floralPalaceWeddingPoster, tag:'Floral & grand' },
+  { id:'42', title:'Red Gold Elegance', occasion:'Wedding', package:'Royal', meta:'Royal · Wedding', video:redGoldElegantVideo, poster:redGoldElegantPoster, tag:'Classic & luxurious' },
+  { id:'43', title:'Pink Gold Traditions', occasion:'Wedding', package:'Premium', meta:'Premium · Wedding', video:pinkGoldTraditionalVideo, poster:pinkGoldTraditionalPoster, tag:'Soft & festive' },
+  { id:'44', title:'Haldi Sunshine', occasion:'Haldi', package:'Classic', meta:'Classic · Haldi', video:yellowGreenHaldiVideo, poster:yellowGreenHaldiPoster, tag:'Bright & joyful' },
+  { id:'45', title:'Pink Floral Story', occasion:'Wedding', package:'Premium', meta:'Premium · Wedding', video:pinkFloralWeddingVideo, poster:pinkFloralWeddingPoster, tag:'Romantic & floral' },
+  { id:'46', title:'Royal Lake', occasion:'Wedding', package:'Royal', meta:'Royal · Wedding', video:royalLakeWeddingVideo, poster:royalLakeWeddingPoster, tag:'Regal & serene' },
+  { id:'47', title:'Red Gold Decorative', occasion:'Wedding', package:'Royal', meta:'Royal · Wedding', video:redGoldDecorativeVideo, poster:redGoldDecorativePoster, tag:'Ornate & festive' },
+  { id:'48', title:'Green Beige Ceremony', occasion:'Wedding', package:'Classic', meta:'Classic · Wedding', video:greenBeigeCeremonyVideo, poster:greenBeigeCeremonyPoster, tag:'Natural & elegant' },
+  { id:'49', title:'Black Gold Tradition', occasion:'Wedding', package:'Royal', meta:'Royal · Wedding', video:blackGoldTraditionalVideo, poster:blackGoldTraditionalPoster, tag:'Bold & traditional' },
+  { id:'50', title:'Red Gold Traditional', occasion:'Wedding', package:'Premium', meta:'Premium · Wedding', video:redGoldTraditionalReelVideo, poster:redGoldTraditionalReelPoster, tag:'Festive & cinematic' },
 ]
 
 const features = [
